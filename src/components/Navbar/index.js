@@ -6,7 +6,7 @@ function Navbar(){
   return(
     <div className="container">
       <Link to='/'><img src="https://raw.githubusercontent.com/PokeAPI/media/master/logo/pokeapi_256.png" alt="logo"/></Link>
-      <Link className='pokemon' to='/pokemon'>Pokemon</Link>     
+        
     </div>
   )
 }
